@@ -1,8 +1,5 @@
 /*
-Joseph Carpenter
-Professor Xan
-CSCI 485
-Assignment 1 Part 2
+linux shell-simulator using fork
 */
 
 #include <stdio.h>
